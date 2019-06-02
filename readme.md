@@ -27,3 +27,7 @@ or
 ```bash
 $ npm run watch
 ```
+
+## Screenshot
+
+![](screenshot.png?raw=true)
